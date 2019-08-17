@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ufrpe-ia/intro-ia/master?urlpath=lab/)
+
 # intro-ia
 Material de apoio para o curso de Inteligência Artificial na UFRPE
 
