@@ -7,6 +7,7 @@ Material de apoio para o curso de Inteligência Artificial na UFRPE
 - [Introdução a Python](https://github.com/ufrpe-ic/intro-python)
 - [Google Colab](https://colab.research.google.com/)
 - [Microsoft Azure Notebooks](https://notebooks.azure.com/)
+- [Slides de aula](https://drive.google.com/drive/folders/1Ll16D6uKZT52RgDHMqWr7bjVulj8jreR?usp=sharing)
 
 ## Preparando o ambiente
 
